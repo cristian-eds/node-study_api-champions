@@ -1,0 +1,150 @@
+[
+    {
+        "id": 1,
+        "name": "Real Madrid"
+    },
+    {
+        "id": 2,
+        "name": "Manchester City"
+    },
+    {
+        "id": 3,
+        "name": "Arsenal"
+    },
+    {
+        "id": 4,
+        "name": "Liverpool"
+    },
+    {
+        "id": 5,
+        "name": "Barcelona"
+    },
+    {
+        "id": 6,
+        "name": "Atlético de Madrid"
+    },
+    {
+        "id": 7,
+        "name": "Bayer Leverkusen"
+    },
+    {
+        "id": 8,
+        "name": "Bayern de Munique"
+    },
+    {
+        "id": 9,
+        "name": "Borussia Dortmund"
+    },
+    {
+        "id": 10,
+        "name": "Paris Saint-Germain"
+    },
+    {
+        "id": 11,
+        "name": "Monaco"
+    },
+    {
+        "id": 12,
+        "name": "Inter de Milão"
+    },
+    {
+        "id": 13,
+        "name": "Juventus"
+    },
+    {
+        "id": 14,
+        "name": "Milan"
+    },
+    {
+        "id": 15,
+        "name": "Bologna"
+    },
+    {
+        "id": 16,
+        "name": "Lille"
+    },
+    {
+        "id": 17,
+        "name": "PSV Eindhoven"
+    },
+    {
+        "id": 18,
+        "name": "Feyenoord"
+    },
+    {
+        "id": 19,
+        "name": "Celtic"
+    },
+    {
+        "id": 20,
+        "name": "Club Brugge"
+    },
+    {
+        "id": 21,
+        "name": "Sturm Graz"
+    },
+    {
+        "id": 22,
+        "name": "Red Bull Salzburg"
+    },
+    {
+        "id": 23,
+        "name": "Shakhtar Donetsk"
+    },
+    {
+        "id": 24,
+        "name": "Benfica"
+    },
+    {
+        "id": 25,
+        "name": "Sporting CP"
+    },
+    {
+        "id": 26,
+        "name": "Porto"
+    },
+    {
+        "id": 27,
+        "name": "Estrela Vermelha"
+    },
+    {
+        "id": 28,
+        "name": "Galatasaray"
+    },
+    {
+        "id": 29,
+        "name": "Dínamo de Kiev"
+    },
+    {
+        "id": 30,
+        "name": "Slavia Praga"
+    },
+    {
+        "id": 31,
+        "name": "Rangers"
+    },
+    {
+        "id": 32,
+        "name": "Steaua Bucareste"
+    },
+    {
+        "id": 33,
+        "name": "Maccabi Tel Aviv"
+    },
+    {
+        "id": 34,
+        "name": "Dinamo Zagreb"
+    },
+    {
+        "id": 35,
+        "name": "Malmö FF"
+    },
+    {
+        "id": 36,
+        "name": "Qarabağ"
+    },
+    {
+        "id": 37,
+        "name": "Bodø/Glimt"
+    }
+]
